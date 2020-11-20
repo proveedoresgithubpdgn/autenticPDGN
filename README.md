@@ -1,2 +1,2 @@
 # autenticPDGN
-Puedes ver la visualizacion de esta app desde este enlace: https://autenticpdgn.web.app/
+Puedes ver la ejecución de la app desde este enlace: https://autenticpdgn.web.app/
